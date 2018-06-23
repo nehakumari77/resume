@@ -1,0 +1,31 @@
+.main{
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+}
+.child1{
+  width:30%;
+  border:3px solid #000;
+  border-radius:15px;
+  box-shadow:3px 3px 3px #752F0F;
+  padding:2%;
+  margin:2%;
+}
+.child2{
+  width:70%;
+  border:3px solid #000;
+  border-radius:15px;
+  box-shadow:3px 3px 3px #752F0F;
+  padding:2%;
+  margin:2%;
+}
+img{
+  width:100px;
+  height:100px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+h1{
+  text-align:center;
+}
