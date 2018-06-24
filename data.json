@@ -1,0 +1,24 @@
+{
+  "basics":{
+    "name":"Neha",
+    "email":"nehakumari771997@gmail.com",
+    "mobile":"+91-9515638012"
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"PSCMR",
+      "Data":["2014-18","69%"]
+    },
+    {
+      "degree":"diploma",
+      "institute":"SCT",
+      "Data":["2013-16","69%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"bihar secondary school",
+      "Data":["2012-2013","60%"]
+    }
+  ]
+}
